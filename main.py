@@ -28,9 +28,9 @@ while True:
 	print(f"Yaw: {flight_data['yaw']}")
 	print(f"Heading Angle: {flight_data['heading']}")
 	print(f"Speed: Mach {flight_data['mach_speed']}")
-	print(f"Ground Speed: {flight_data['ground_speed']}")
-	print(f"Altitude: {flight_data['altitude']}m")
-	print(f"Outside Temp: {flight_data['outside_temperature']}oC")
+	print(f"Ground Speed: {flight_data['ground_speed']} knots")
+	print(f"Altitude: {flight_data['altitude']}ft")
+	print(f"Outside Temp: {flight_data['outside_temperature']}C")
 	
 	time.sleep(5)
 	flight_data = requests.get("https://play.volotea.com/api/flightinfo/?display_language=EN").json()
