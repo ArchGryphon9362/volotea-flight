@@ -7,11 +7,11 @@ Flight Id: VOE32XJ
 Origin City: Nantes
 Origin Airport: NTE - Nantes Atlantique Airport
 Origin Latitude: 47.15320
-Origin Longitude: 47.15320
+Origin Longitude: -1.61070
 Destination City: Zakynthos
 Destination Airport: ZTH - Nantes Atlantique Airport
 Destination Latitude: 37.75080
-Destination Longitude: 37.75080
+Destination Longitude: 20.88410
 --- New Flight Data ---
 Latitude: 40.30143
 Longitude: 15.05373
@@ -20,9 +20,9 @@ Roll: -0.05494
 Yaw: 0.02198
 Heading Angle: 121.62237
 Speed: Mach 0.76634
-Ground Speed: 480
-Altitude: 38978m
-Outside Temp: -54oC
+Ground Speed: 480 knots
+Altitude: 38978ft
+Outside Temp: -54C
 --- New Flight Data ---
 Latitude: 40.30143
 Longitude: 15.05373
@@ -31,9 +31,9 @@ Roll: -0.05494
 Yaw: 0.02198
 Heading Angle: 121.62237
 Speed: Mach 0.76634
-Ground Speed: 480
-Altitude: 38978m
-Outside Temp: -54oC
+Ground Speed: 480 knots
+Altitude: 38978ft
+Outside Temp: -54C
 --- New Flight Data ---
 Latitude: 40.30143
 Longitude: 15.05373
@@ -42,9 +42,9 @@ Roll: -0.05494
 Yaw: 0.02198
 Heading Angle: 121.62237
 Speed: Mach 0.76927
-Ground Speed: 480
-Altitude: 38999m
-Outside Temp: -53oC
+Ground Speed: 480 knots
+Altitude: 38999ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.28135
 Longitude: 15.09905
@@ -53,9 +53,9 @@ Roll: -0.15382
 Yaw: -0.06593
 Heading Angle: 121.44109
 Speed: Mach 0.76927
-Ground Speed: 481
-Altitude: 38999m
-Outside Temp: -53oC
+Ground Speed: 481 knots
+Altitude: 38999ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.28135
 Longitude: 15.09905
@@ -64,9 +64,9 @@ Roll: -0.15382
 Yaw: -0.06593
 Heading Angle: 121.44109
 Speed: Mach 0.76927
-Ground Speed: 481
-Altitude: 38999m
-Outside Temp: -53oC
+Ground Speed: 481 knots
+Altitude: 38999ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.28135
 Longitude: 15.09905
@@ -75,9 +75,9 @@ Roll: -0.15382
 Yaw: -0.06593
 Heading Angle: 121.44109
 Speed: Mach 0.76927
-Ground Speed: 481
-Altitude: 38999m
-Outside Temp: -53oC
+Ground Speed: 481 knots
+Altitude: 38999ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.25886
 Longitude: 15.14986
@@ -86,9 +86,9 @@ Roll: -0.02197
 Yaw: -0.10988
 Heading Angle: 121.50701
 Speed: Mach 0.77077
-Ground Speed: 481
-Altitude: 39024m
-Outside Temp: -53oC
+Ground Speed: 481 knots
+Altitude: 39024ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.25886
 Longitude: 15.14986
@@ -97,9 +97,9 @@ Roll: -0.02197
 Yaw: -0.10988
 Heading Angle: 121.50701
 Speed: Mach 0.77077
-Ground Speed: 481
-Altitude: 39024m
-Outside Temp: -53oC
+Ground Speed: 481 knots
+Altitude: 39024ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.25886
 Longitude: 15.14986
@@ -108,9 +108,9 @@ Roll: -0.02197
 Yaw: -0.10988
 Heading Angle: 121.50701
 Speed: Mach 0.77077
-Ground Speed: 481
-Altitude: 39024m
-Outside Temp: -53oC
+Ground Speed: 481 knots
+Altitude: 39024ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.2386
 Longitude: 15.19535
@@ -119,9 +119,9 @@ Roll: 0.0879
 Yaw: 0.0
 Heading Angle: 121.32573
 Speed: Mach 0.77365
-Ground Speed: 482
-Altitude: 39041m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39041ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.2386
 Longitude: 15.19535
@@ -130,9 +130,9 @@ Roll: 0.0879
 Yaw: 0.0
 Heading Angle: 121.32573
 Speed: Mach 0.77365
-Ground Speed: 482
-Altitude: 39041m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39041ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.2386
 Longitude: 15.19535
@@ -141,9 +141,9 @@ Roll: 0.0879
 Yaw: 0.0
 Heading Angle: 121.32573
 Speed: Mach 0.77365
-Ground Speed: 482
-Altitude: 39041m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39041ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.2386
 Longitude: 15.19535
@@ -152,9 +152,9 @@ Roll: 0.0879
 Yaw: 0.0
 Heading Angle: 121.32573
 Speed: Mach 0.7764
-Ground Speed: 482
-Altitude: 39057m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39057ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.21835
 Longitude: 15.24084
@@ -163,9 +163,9 @@ Roll: -0.2527
 Yaw: 0.06593
 Heading Angle: 121.44658
 Speed: Mach 0.7764
-Ground Speed: 482
-Altitude: 39057m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39057ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.21835
 Longitude: 15.24084
@@ -174,9 +174,9 @@ Roll: -0.2527
 Yaw: 0.06593
 Heading Angle: 121.44658
 Speed: Mach 0.7764
-Ground Speed: 482
-Altitude: 39057m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39057ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.21835
 Longitude: 15.24084
@@ -185,9 +185,9 @@ Roll: -0.2527
 Yaw: 0.06593
 Heading Angle: 121.44658
 Speed: Mach 0.7764
-Ground Speed: 482
-Altitude: 39057m
-Outside Temp: -53oC
+Ground Speed: 482 knots
+Altitude: 39057ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.19809
 Longitude: 15.28616
@@ -196,9 +196,9 @@ Roll: -0.1648
 Yaw: -0.06593
 Heading Angle: 121.68829
 Speed: Mach 0.77965
-Ground Speed: 480
-Altitude: 39068m
-Outside Temp: -52oC
+Ground Speed: 480 knots
+Altitude: 39068ft
+Outside Temp: -52C
 --- New Flight Data ---
 Latitude: 40.19809
 Longitude: 15.28616
@@ -207,9 +207,9 @@ Roll: -0.1648
 Yaw: -0.06593
 Heading Angle: 121.68829
 Speed: Mach 0.77965
-Ground Speed: 480
-Altitude: 39068m
-Outside Temp: -52oC
+Ground Speed: 480 knots
+Altitude: 39068ft
+Outside Temp: -52C
 --- New Flight Data ---
 Latitude: 40.19809
 Longitude: 15.28616
@@ -218,9 +218,9 @@ Roll: -0.1648
 Yaw: -0.06593
 Heading Angle: 121.68829
 Speed: Mach 0.77965
-Ground Speed: 480
-Altitude: 39068m
-Outside Temp: -52oC
+Ground Speed: 480 knots
+Altitude: 39068ft
+Outside Temp: -52C
 --- New Flight Data ---
 Latitude: 40.19809
 Longitude: 15.28616
@@ -229,9 +229,9 @@ Roll: -0.1648
 Yaw: -0.06593
 Heading Angle: 121.68829
 Speed: Mach 0.78159
-Ground Speed: 480
-Altitude: 39065m
-Outside Temp: -53oC
+Ground Speed: 480 knots
+Altitude: 39065ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.17543
 Longitude: 15.33628
@@ -240,9 +240,9 @@ Roll: -0.85699
 Yaw: 0.19778
 Heading Angle: 121.8476
 Speed: Mach 0.78159
-Ground Speed: 479
-Altitude: 39065m
-Outside Temp: -53oC
+Ground Speed: 479 knots
+Altitude: 39065ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.17543
 Longitude: 15.33628
@@ -251,9 +251,9 @@ Roll: -0.85699
 Yaw: 0.19778
 Heading Angle: 121.8476
 Speed: Mach 0.78159
-Ground Speed: 479
-Altitude: 39065m
-Outside Temp: -53oC
+Ground Speed: 479 knots
+Altitude: 39065ft
+Outside Temp: -53C
 --- New Flight Data ---
 Latitude: 40.17543
 Longitude: 15.33628
@@ -262,6 +262,6 @@ Roll: -0.85699
 Yaw: 0.19778
 Heading Angle: 121.8476
 Speed: Mach 0.78159
-Ground Speed: 479
-Altitude: 39065m
-Outside Temp: -53oC
+Ground Speed: 479 knots
+Altitude: 39065ft
+Outside Temp: -53C
