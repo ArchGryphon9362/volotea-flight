@@ -15,7 +15,7 @@ print(f"Origin Airport: {flight_data['origin_airport']['iata_code']} - {flight_d
 print(f"Origin Latitude: {flight_data['origin_airport']['latitude']}")
 print(f"Origin Longitude: {flight_data['origin_airport']['latitude']}")
 print(f"Destination City: {flight_data['destination_airport']['city']}")
-print(f"Destination Airport: {flight_data['destination_airport']['iata_code']} - {flight_data['origin_airport']['name']}")
+print(f"Destination Airport: {flight_data['destination_airport']['iata_code']} - {flight_data['destination_airport']['name']}")
 print(f"Destination Latitude: {flight_data['destination_airport']['latitude']}")
 print(f"Destination Longitude: {flight_data['destination_airport']['latitude']}")
 
