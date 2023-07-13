@@ -13,11 +13,11 @@ print(f"Flight Id: {flight_data['flight_id']}")
 print(f"Origin City: {flight_data['origin_airport']['city']}")
 print(f"Origin Airport: {flight_data['origin_airport']['iata_code']} - {flight_data['origin_airport']['name']}")
 print(f"Origin Latitude: {flight_data['origin_airport']['latitude']}")
-print(f"Origin Longitude: {flight_data['origin_airport']['latitude']}")
+print(f"Origin Longitude: {flight_data['origin_airport']['longitude']}")
 print(f"Destination City: {flight_data['destination_airport']['city']}")
 print(f"Destination Airport: {flight_data['destination_airport']['iata_code']} - {flight_data['destination_airport']['name']}")
 print(f"Destination Latitude: {flight_data['destination_airport']['latitude']}")
-print(f"Destination Longitude: {flight_data['destination_airport']['latitude']}")
+print(f"Destination Longitude: {flight_data['destination_airport']['longitude']}")
 
 while True:
 	print("--- New Flight Data ---")
