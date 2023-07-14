@@ -3,6 +3,10 @@ print("by arch ;)")
 
 import requests
 import time
+import json
+
+file = open("flight.json", "w")
+all_data = []
 
 flight_data = requests.get("https://play.volotea.com/api/flightinfo/?display_language=EN").json()
 print("--- Aircraft Info ---")
@@ -32,5 +36,8 @@ while True:
 	print(f"Altitude: {flight_data['altitude']}ft")
 	print(f"Outside Temp: {flight_data['outside_temperature']}C")
 	
+	all_data.append(flight_data)
+	json.dumps(file)
+
 	time.sleep(5)
 	flight_data = requests.get("https://play.volotea.com/api/flightinfo/?display_language=EN").json()
